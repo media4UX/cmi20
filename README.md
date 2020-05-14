@@ -127,6 +127,7 @@ Este  proyecto es interesante porque ...
 
 * Musica:  
 * Imágenes:  
+* tipografía
 
 **Herramientas utilizadas**
 
