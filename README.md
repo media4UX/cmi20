@@ -1,8 +1,12 @@
-## (Nombre del proyecto)
+
+## MICASAS
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
+sdsj ñfkajf ñdsfkjdsñfkds jfñdsf
 
+
+sfldñfkdsjf ñdskfj
 
 # 1 Datos 
 
@@ -117,6 +121,8 @@ Este  proyecto es interesante porque ...
 
 
 
+
+
 # 5 Referencias 
 
 **Artículos y blogs ** 
@@ -127,7 +133,7 @@ Este  proyecto es interesante porque ...
 
 * Musica:  
 * Imágenes:  
-* tipografía
+* Tipografía
 
 **Herramientas utilizadas**
 
@@ -135,9 +141,10 @@ Este  proyecto es interesante porque ...
 - 
 
 
+
 (imagen de la licencia, copiar y pegar aquí la correcta)
+
 https://creativecommons.org/licenses/?lang=es
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
 Mayo 2020
 
